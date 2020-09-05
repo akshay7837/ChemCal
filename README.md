@@ -1,2 +1,2 @@
 # ChemCal
-Chemical engineering calculations as Jupyter notebook
+Chemical engineering calculations based on Jupyter notebook
